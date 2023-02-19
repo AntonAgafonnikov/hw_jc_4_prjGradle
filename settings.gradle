@@ -1,0 +1,5 @@
+rootProject.name = 'prjGradle'
+include 'db'
+include 'api'
+include 'service'
+
